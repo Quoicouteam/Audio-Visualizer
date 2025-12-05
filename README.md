@@ -2,6 +2,8 @@
 
 Visualiseur audio 3D et 2D réactif développé pendant la Nuit de l'Info.
 
+🌐 **Accéder au site hébergé :** https://quoicouteam.github.io/Audio-Visualizer/
+
 ## Description
 
 Application web de visualisation audio en temps réel avec shaders GLSL personnalisés. Le visualiseur analyse les fréquences audio (bass, mid, treble) et génère des animations 3D et 2D réactives.
